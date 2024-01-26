@@ -1,8 +1,8 @@
-# Miruro no Kuon: Your Anime Haven 🌌
+# Miruro no Kuon: Look at eternity🌌
 
-## Our Vision 🌠
+## Our Vision: Your Anime Haven 🌠
 
-Welcome to [Miruro no Kuon](https://miruro.com) 🌀, where we redefine the anime streaming experience. Our platform is not just a website; it's a gateway to a world where anime fans can indulge in their passion. We've meticulously crafted Miruro no Kuon with a focus on simplicity and functionality, ensuring that every visit to our site is a journey into a world where the anime comes to life. Our use of advanced technologies like React, Vite, and Bun isn't just about keeping up with trends; it's about providing a smooth, fast, and responsive streaming service that meets the high expectations of modern anime enthusiasts.
+Welcome to [Miruro no Kuon](https://miruro.com) 🌀, a new upccoming anime website project where we redefine the anime streaming experience. Our platform is not just a website; it's a gateway to a world where anime fans can indulge in their passion. We are meticulously crafting Miruro no Kuon with a focus on the user, simplicity and functionality, ensuring the best experience. Our use of advanced technologies like React, Vite, and Bun isn't just about keeping up with trends; it's about providing a smooth, fast, and responsive streaming service that meets the high expectations of modern anime enthusiasts.
 
 ## What We Offer ⚡
 
@@ -22,12 +22,19 @@ The journey of Miruro no Kuon is one that we travel together with our community.
 
 Your experience and satisfaction are our top priorities. Whether you're facing a technical issue, have a suggestion to improve the platform, or want to share your anime experiences, we are here to listen and act. Connect with us through our [GitHub issues page](https://github.com/Miruro-no-Kuon/Miruro-no-Kuon/issues) for technical matters or engage in discussions with fellow fans on our [Discord server](https://discord.gg/4kfypZ96K4). Every piece of feedback is a step towards making Miruro no Kuon better.
 
+Email us at: miruro@proton.me
+
 ## Connect With Us 🔗
 
-- **Explore a New World of Anime**: Our [website](https://miruro.com) is your portal to explore the vast and exciting world of anime. Dive in and discover content that resonates with your taste.
+- Visit our website at **[miuro.com](https://miruro.com)**
   
-- **Become an Active Community Member**: The heart of Miruro no Kuon is its community. Join the vibrant discussions, share your thoughts, and connect with fellow anime enthusiasts on [Discord](https://discord.gg/4kfypZ96K4).
+- Join our **[Discord](https://discord.gg/4kfypZ96K4)**
 
-## Our Commitment to Open Source 🗒️
+- Follow us on **[Twitter](https://twitter.com/miruro_official)** 
+
+- Join our **[Subreddit](https://www.reddit.com/r/miruro)**
+
+
+## Our Commitment to Open Source 🔓📄
 
 Miruro no Kuon stands as a proud proponent of the open-source movement. Licensed under the [GPL-3.0 License](https://github.com/Miruro-no-kuon/Miruro-no-Kuon/blob/%F0%9F%8C%8A-MiruroNoKuon-%F0%9F%8F%94%EF%B8%8F-Rise/LICENSE), our platform is built on the principles of collaboration, innovation, and community-driven development. By contributing to Miruro no Kuon, you join a global community of developers and anime fans who are all committed to creating a platform that isn't just about streaming anime, but also about fostering a strong, supportive anime community.
