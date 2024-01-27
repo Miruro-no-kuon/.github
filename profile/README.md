@@ -1,4 +1,6 @@
-# Miruro no Kuon: Look at eternity🌌
+<img src="https://github.com/Miruro-no-kuon/Miruro-no-Kuon/blob/%F0%9F%8C%8A-MiruroNoKuon-%F0%9F%8F%94%EF%B8%8F-Rise/src/assets/banner-one_piece.jpg" alt="Miruro no Kuon - One Piece Banner">
+
+# Miruro no Kuon: Look at eternity 🌌
 
 ## Our Vision: Your Anime Haven 🌠
 
