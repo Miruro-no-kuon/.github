@@ -1,4 +1,4 @@
-<img src="https://github.com/Miruro-no-kuon/Miruro-no-Kuon/blob/%F0%9F%8C%8A-MiruroNoKuon-%F0%9F%8F%94%EF%B8%8F-Rise/src/assets/banner-one_piece.jpg" alt="Miruro no Kuon - One Piece Banner">
+<img src="https://raw.githubusercontent.com/Miruro-no-kuon/Miruro-no-Kuon/%F0%9F%8C%8A-MiruroNoKuon-%F0%9F%8F%94%EF%B8%8F-Rise/src/assets/miruro-banner.png" alt="Miruro no Kuon - One Piece Banner">
 
 # Miruro no Kuon: Look at eternity 🌌
 
