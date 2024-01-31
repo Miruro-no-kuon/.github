@@ -1,3 +1,5 @@
+![Miruro Logo](https://raw.githubusercontent.com/Miruro-no-kuon/.github/main/profile/miruro-banner-org.png)
+
 # Miruro no Kuon: Look at eternity 🌌
 
 ## Our Vision: Your Anime Haven 🌠
