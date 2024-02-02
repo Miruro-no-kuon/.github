@@ -1,4 +1,4 @@
-![Miruro Logo](https://raw.githubusercontent.com/Miruro-no-kuon/.github/main/profile/new-banner-org.png)
+![Miruro Logo](/profile/miruro-banner.png)
 
 # Miruro no Kuon: Look at eternity 🌌
 
@@ -27,10 +27,9 @@ Miruro no Kuon stands as a proud proponent of the open-source movement. Our plat
 ## Connect With Us 🔗
 
 - Visit our website at **[miuro.com](https://miruro.com)**
-  
 - Join our **[Discord](https://discord.gg/4kfypZ96K4)**
 
-- Follow us on **[Twitter](https://twitter.com/miruro_official)** 
+- Follow us on **[Twitter](https://twitter.com/miruro_official)**
 
 - Join our **[Subreddit](https://www.reddit.com/r/miruro)**
 
