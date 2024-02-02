@@ -1,4 +1,4 @@
-![Miruro Logo](https://raw.githubusercontent.com/Miruro-no-kuon/.github/main/profile/miruro-banner-org.png)
+![Miruro Logo](https://raw.githubusercontent.com/Miruro-no-kuon/.github/main/profile/new-banner-org.png)
 
 # Miruro no Kuon: Look at eternity 🌌
 
