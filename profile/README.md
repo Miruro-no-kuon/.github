@@ -26,7 +26,7 @@ Miruro no Kuon stands as a proud proponent of the open-source movement. Our plat
 
 ## Connect With Us 🔗
 
-- Visit our website at **[miuro.com](https://miruro.com)**
+- Visit our website at **[miruro.com](https://miruro.com)**
 - Join our **[Discord](https://discord.gg/4kfypZ96K4)**
 
 - Follow us on **[Twitter](https://twitter.com/miruro_official)**
