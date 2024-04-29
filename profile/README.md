@@ -2,7 +2,7 @@
 
 ### About Us 
 
-<p><a href="https://www.miruro.com">Miruro</a> is a cutting-edge anime streaming platform powered by the <a href="https://github.com/consumet">Consumet API</a>. Crafted using <a href="https://react.dev/">React</a> and <a href="https://vitejs.dev/">Vite</a>, it boasts a stylish and contemporary interface. Our platform, Miruro.com, is completely ad-free, ensuring an immersive viewing journey without interruptions.</p>
+<p><a href="https://www.miruro.com">Miruro</a> is a cutting-edge anime streaming platform powered by the <a href="https://github.com/consumet">Consumet API</a>. Crafted using <a href="https://react.dev/">React</a> and <a href="https://vitejs.dev/">Vite</a>, it boasts a stylish and contemporary interface. Our platform, Miruro, ensures an immersive viewing journey without interruptions.</p>
 
 
 ### What We Offer
