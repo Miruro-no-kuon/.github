@@ -1,4 +1,4 @@
-## Miruro no Kuon [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://miruro.com) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Miruro-no-kuon/Miruro)
+## Miruro no Kuon [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://miruro.com)
 
 ### About Us 📖
 
@@ -60,3 +60,4 @@ The journey of Miruro no Kuon is one that we travel together with our community.
 [![GitHub issues](https://img.shields.io/github/issues/Miruro-no-kuon/Miruro.svg?style=social&label=Issues)](https://github.com/Miruro-no-kuon/Miruro/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Miruro-no-kuon/Miruro.svg?style=social&label=Fork)](https://github.com/Miruro-no-kuon/Miruro/network)
 [![Github Release](https://img.shields.io/github/release/Miruro-no-Kuon/Miruro.svg?style=social&label=Release)](https://github.com/Miruro-no-kuon/Miruro/releases)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Miruro-no-kuon/Miruro)
