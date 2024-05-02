@@ -2,7 +2,7 @@
 
 ### About Us 📖
 
-> <img src="https://github.com/Miruro-no-kuon/.github/blob/main/profile/rtw.webp" align="right" style="margin: 1rem; width: 250px;"/>
+> <img src="https://github.com/Miruro-no-kuon/.github/blob/main/profile/rtw.webp" align="right" style="margin: 1rem; width: 150px;"/>
 
 [**Miruro**](https://www.miruro.com) is a cutting-edge anime streaming platform powered by the [**Consumet API**](https://github.com/consumet/api.consumet.org). Crafted using [**React**](https://react.dev/) and [**Vite**](https://vitejs.dev/), it boasts a stylish and contemporary interface. Our platform, Miruro, ensures an immersive viewing journey without interruptions.
 
