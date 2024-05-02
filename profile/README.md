@@ -1,17 +1,21 @@
-# Miruro no Kuon [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://miruro.com) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Miruro-no-kuon/Miruro)
+## Miruro no Kuon [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://miruro.com) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Miruro-no-kuon/Miruro)
 
 ### About Us 📖
 
-> <img src="https://github.com/Miruro-no-kuon/.github/blob/main/profile/rtw.webp" align="right" style="margin: 1rem"/>
+> <img src="https://github.com/Miruro-no-kuon/.github/blob/main/profile/rtw.webp" align="right" style="margin: 1rem; width: 250px;"/>
 
-[**Miruro**](https://miruro.com) is a cutting-edge anime streaming platform powered by the [**Consumet API**](https://github.com/consumet). Crafted using [**React**](https://react.dev/) and [**Vite**](https://vitejs.dev/), it boasts a stylish and contemporary interface. Our platform, Miruro, ensures an immersive viewing journey without interruptions.
+[**Miruro**](https://www.miruro.com) is a cutting-edge anime streaming platform powered by the [**Consumet API**](https://github.com/consumet/api.consumet.org). Crafted using [**React**](https://react.dev/) and [**Vite**](https://vitejs.dev/), it boasts a stylish and contemporary interface. Our platform, Miruro, ensures an immersive viewing journey without interruptions.
+
+> [!Important]
+>
+> > **_Take a tour of our elegantly designed and intuitive platform by exploring previews of both the Home and Watch pages._** Click on the images down below for an **immersive, direct experience** of our top-tier streaming service.
 
 <details>
   <summary>Preview Miruro</summary>
-
-|                                        Home Page                                         |                                         Watch Page                                         |
-| :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| ![Home Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/home-page.webp) | ![Watch Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/watch-page.webp) |
+  
+|                                                     Home Page                                                      |                                                                      Watch Page                                                                      |
+| :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Home Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/home-page.webp)](https://www.miruro.tv/home) | [![Watch Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/watch-page.webp)](https://www.miruro.tv/watch/154587/sousou-no-frieren/3) |
 
 </details>
 
