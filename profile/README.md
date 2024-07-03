@@ -15,7 +15,7 @@
   
 |                                                     Home Page                                                      |                                                                      Watch Page                                                                      |
 | :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Home Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/home-page.webp)](https://www.miruro.tv/home) | [![Watch Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/watch-page.webp)](https://www.miruro.tv/watch/154587/sousou-no-frieren/3) |
+| [![Home Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/home-page.webp)](https://www.miruro.tv) | [![Watch Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/watch-page.webp)](https://www.miruro.tv/watch?id=154587) |
 
 </details>
 
