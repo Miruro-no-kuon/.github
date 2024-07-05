@@ -1,25 +1,25 @@
-## Miruro no Kuon [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://miruro.com)
+## Miruro no Kuon
 
-### About Us 📖
+### About Us
 
 > <img src="https://github.com/Miruro-no-kuon/.github/blob/main/profile/rtw.webp" align="right" style="margin: 0 0 2rem 1rem; width: 20%;"/>
 
-[**Miruro**](https://www.miruro.com) is a cutting-edge anime streaming platform powered by the [**Consumet API**](https://github.com/consumet/api.consumet.org). Crafted using [**React**](https://react.dev/) and [**Vite**](https://vitejs.dev/), it boasts a stylish and contemporary interface. Our platform, Miruro, ensures an immersive viewing journey without interruptions.
+[**Miruro**](https://www.miruro.com) is a cutting-edge anime streaming platform, made with [**_React_**](https://react.dev/) & [**_Vite_**](https://vitejs.dev/). It offers a stylish, contemporary interface for an immersive and uninterrupted viewing experience. With [**_AniList_**](https://anilist.co/) login synchronization, your watchlist stays up-to-date. Enjoy blazing-fast speeds and exceptional responsiveness for efficient and enjoyable anime viewing.
 
-> [!Important]
+> [!Tip]
 >
-> > **_Take a tour of our elegantly designed and intuitive platform by exploring previews of both the Home and Watch pages._** Click on the images down below for an **immersive, direct experience** of our top-tier streaming service.
+> **_Check out our_** Home and Watch **_pages._** Click on the images below to **_experience_** our streaming service.
+>
+> <details>
+>  <summary>Preview miruro.tv</summary>
+>
+> |                                                     Home Page                                                     |                                                             Watch Page                                                              |
+> | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+> | [![Home Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/home-page.webp)](https://www.miruro.tv) | [![Watch Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/watch-page.webp)](https://www.miruro.tv/watch?id=154587) |
+>
+> </details>
 
-<details>
-  <summary>Preview Miruro</summary>
-  
-|                                                     Home Page                                                      |                                                                      Watch Page                                                                      |
-| :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Home Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/home-page.webp)](https://www.miruro.tv) | [![Watch Page](https://github.com/Miruro-no-kuon/.github/blob/main/profile/watch-page.webp)](https://www.miruro.tv/watch?id=154587) |
-
-</details>
-
-### What We Offer 🫴
+### What We Offer
 
 - **Sleek Interface**: We've designed our user interface to be intuitively navigable, clean, and minimalistic. This design choice ensures that your focus remains on the rich and vibrant anime content we provide, free from unnecessary distractions.
 
@@ -27,20 +27,20 @@
 
 - **User Experience**: Our commitment extends beyond just streaming anime. We're dedicated to creating an all-encompassing experience that caters to the diverse needs and preferences of anime fans. From the casual viewer to the hardcore otaku, our platform is designed to deliver satisfaction to every kind of anime lover.
 
-### Support 🆘
+### Support
 
 Feel free to contribute to this project! Whether you're an experienced developer or have been in the field for a while, your help is valuable. A [**contribution**](https://github.com/Miruro-no-kuon/Miruro) to our project is always welcome.
 
-### Commitment to Open Source 🔓
+### Commitment to Open Source
 
 Miruro no Kuon stands as a proud proponent of the open-source movement. Our platform is built on the principles of collaboration, innovation, and community-driven development.
 [**LICENSE**](https://github.com/Miruro-no-kuon/Miruro/blob/main/LICENSE)
 
-### Join Our Community 🤝
+### Join Our Community
 
 The journey of Miruro no Kuon is one that we travel together with our community. We value your ideas, feedback, and contributions, as they are essential in shaping the future of our platform. We invite you to engage with us by joining our [**Discord**](https://discord.gg/dubRrtfpFn).
 
-### Links 🍒
+### Links
 
 - Visit our **[Website](https://miruro.com)**
 
