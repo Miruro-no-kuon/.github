@@ -44,7 +44,7 @@ The journey of Miruro no Kuon is one that we travel together with our community.
 
 - Visit our **[Website](https://miruro.com)**
 
-- Join our **[Discord](https://discord.gg/dubRrtfpFn)**
+- Join our **[Discord](https://discord.gg/miruro)**
 
 - Follow us on **[Twitter](https://twitter.com/miruro_official)**
 
