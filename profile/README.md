@@ -38,7 +38,11 @@ Miruro no Kuon stands as a proud proponent of the open-source movement. Our plat
 
 ### Join Our Community
 
-The journey of Miruro no Kuon is one that we travel together with our community. We value your ideas, feedback, and contributions, as they are essential in shaping the future of our platform. We invite you to engage with us by joining our [**Discord**](https://discord.gg/dubRrtfpFn).
+The journey of Miruro no Kuon is one that we travel together with our community. We value your ideas, feedback, and contributions, as they are essential in shaping the future of our platform. We invite you to engage with us by joining our [**Discord Server**](https://discord.gg/pjsdJp96mY).
+
+<a href="http://discord.gg/pjsdJp96mY">
+  <img src="https://invidget.switchblade.xyz/pjsdJp96mY" alt="Join our Discord server!">
+</a>
 
 ### Links
 
